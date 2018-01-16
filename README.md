@@ -24,8 +24,6 @@
     * Paid ($20/Month) - 4 Quizzes, 7 Projects
 *   [Udemy - The Web Dev Bootcamp / Unit 21: The Command Line](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3925818)
     * Paid ($35 Course) - 5 Lessons (45 minutes), 1 Exercise
-*   [dargaCode - “mkdir /data” and “mkdir data” are NOT the Same](http://blog.dargacode.com/post/144129893311/mkdir-data-and-mkdir-data-are-not-the-same)
-    * Free - Blog Post
 
 ### Git and GitHub
 Git helps prevent loss of work, and GitHub makes it easy to collaborate and share work with others. 
