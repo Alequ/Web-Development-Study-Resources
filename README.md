@@ -22,8 +22,7 @@
 *   [Codecademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
     * Free - 4 Units, 4 Lessons (3 hours)
     * Paid ($20/Month) - 4 Quizzes, 7 Projects
-*   [Udemy - The Web Dev Bootcamp / Unit 21: The Command Line](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3925818)
-    * Paid ($35 Course) - 5 Lessons (45 minutes), 1 Exercise
+
 
 ### Git and GitHub
 Git helps prevent loss of work, and GitHub makes it easy to collaborate and share work with others. 
